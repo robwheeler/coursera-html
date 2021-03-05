@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #eee;
+}
+
+.navbar-brand {
+  font-size: 2em;
+}
+
+section {
+  background-color: #888;
+  height: 1000px;
+  font-weight: bold;
+  padding: 10px;
+}
